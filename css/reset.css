@@ -1,0 +1,23 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+/* font-family: 'Noto Sans KR', sans-serif; */
+/* 
+@import url(https://cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/3.1.13/jquery.mousewheel.min.js);  */
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+html,body{
+    box-sizing: border-box;
+    /* overflow-x: hidden; */
+    cursor: url(../img/마우스.png),auto;
+}
+
+ol,ul,li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}

@@ -925,6 +925,8 @@
       font-weight: 700;
       line-height: 2.5;
       padding: 20px 0;
+      word-break: initial;
+      width: auto;
     }
     .scrolling img{
       width: 900px;
@@ -959,12 +961,16 @@
       margin-bottom:76px;
     }
 
-
+    .web-container{
+      height: 3050px;
+    }
     .con-box1,.con-box2,.con-box3,.con-box4{
       width: 345px;
       height: 560px;
       margin: 28px 15px;
     }
+
+
     .num{
       width: 55px;
       height: 30px;
